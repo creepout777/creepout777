@@ -12,7 +12,7 @@
 - 🧠 Skills: Java | GraphQL | REST API | Quarkus | JPA | Python | C/C++ | Assembly x86  
 - 🗃️ Databases: PostgreSQL | MySQL  
 - 🛠️ Tools: Docker | GitHub | Vim | UML 
-- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/yassine-aitaouicha/)
+- 📫 Contact: [LinkedIn](https://www.linkedin.com/in/yassine-aitaouicha-a99653389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Tech Stack
 
