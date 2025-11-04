@@ -32,5 +32,5 @@
 ## GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yassine-aitaouicha&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-aitaouicha&theme=dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yassine-aitaouicha&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
 </p>
