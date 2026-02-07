@@ -8,10 +8,10 @@
 (EYY!  Clean Code please)
 -  IT & Cybersecurity Student at Euro-Mediterranean University of Fes  
 -  Information Systems Development - BTS Graduate  
--  Fully Backend Developer  
--  Skills: Java | GraphQL | REST API | Quarkus | JPA | Python | C/C++ | Assembly x86 | Cisco packet tracer | Administration
--  Databases: PostgreSQL | MySQL  
--  Tools: Docker | GitHub | Vim | UML 
+-  Backend Developer  
+-  Skills: PHP | Java | GraphQL | REST API | Quarkus | JPA | Python | C/C++ | Assembly x86 | System Administration | Networking 
+-  Databases: PostgreSQL | MySQL | OracleDB
+-  Tools: Docker | GitHub | Vim | UML | Cisco packet tracer
 -  Contact: [LinkedIn](https://www.linkedin.com/in/yassine-aitaouicha-a99653389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Tech Stack
@@ -29,8 +29,7 @@
   <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" />
 </p>
 
-## GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yassine-aitaouicha&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=yassine-aitaouicha&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+
+
+
+
