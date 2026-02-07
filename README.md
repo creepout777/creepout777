@@ -5,7 +5,8 @@
 </p>
 
 ## About Me
-(EYY!  Clean Code please)
+Linus Torvalds : Theory and practice sometimes clash. And when that happens, theory loses every single time.
+
 -  IT & Cybersecurity Student at Euro-Mediterranean University of Fes  
 -  Information Systems Development - BTS Graduate  
 -  Backend Developer  
