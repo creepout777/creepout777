@@ -5,7 +5,6 @@
 </p>
 
 ## About Me
-Linus Torvalds : Theory and practice sometimes clash. And when that happens, theory loses every single time.
 
 -  IT & Cybersecurity Student at Euro-Mediterranean University of Fes  
 -  Information Systems Development - BTS Graduate  
