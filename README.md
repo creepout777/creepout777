@@ -9,9 +9,9 @@
 -  IT & Cybersecurity Student at Euro-Mediterranean University of Fes  
 -  Information Systems Development - BTS Graduate  
 -  Backend Developer  
--  Skills: PHP | Java | GraphQL | REST API | Quarkus | JPA | Python | C/C++ | Assembly x86 | System Administration | Networking 
--  Databases: PostgreSQL | MySQL | OracleDB
--  Tools: Docker | GitHub | Vim | UML | Cisco packet tracer
+-  Skills: PHP | Java | GraphQL | REST API | Quarkus | Python | C/C++ | Assembly x86 | System Administration | Networking | Pentesting | Log analysis | Cloud Computing | Machine learning | Cryptography
+-  Databases: PostgreSQL | MySQL | OracleDB | Microsoft Sql Server
+-  Tools: Docker | GitHub | Vim | UML | Cisco packet tracer | Burpsuite | SqlMap
 -  Contact: [LinkedIn](https://www.linkedin.com/in/yassine-aitaouicha-a99653389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Tech Stack
@@ -27,6 +27,7 @@
   <img width="50px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="Docker" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
   <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" />
+  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg" alt="Burpsuite">
 </p>
 
 
