@@ -1,36 +1,113 @@
-# Yassine Aitaouicha | Backend Developer 
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Yassine Aitaouicha - Cybersecurity Student and Backend Developer" />
+</p>
 
 <p align="center">
-  <img width="300px" src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" alt="Berserk Guts GIF">
+  <a href="https://www.linkedin.com/in/yassine-aitaouicha-a99653389"><img src="https://img.shields.io/badge/LinkedIn-Yassine%20Aitaouicha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=creepout777&style=for-the-badge&color=2ea043&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ## About Me
 
--  IT & Cybersecurity Student at Euro-Mediterranean University of Fes  
--  Information Systems Development - BTS Graduate  
--  Backend Developer  
--  Skills: PHP | Java | GraphQL | REST API | Quarkus | Python | C/C++ | Assembly x86 | System Administration | Networking | Pentesting | Log analysis | Cloud Computing | Machine learning | Cryptography
--  Databases: PostgreSQL | MySQL | OracleDB | Microsoft Sql Server
--  Tools: Docker | GitHub | Vim | UML | Cisco packet tracer | Burpsuite | SqlMap
--  Contact: [LinkedIn](https://www.linkedin.com/in/yassine-aitaouicha-a99653389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<img align="right" width="250" src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" alt="Berserk GIF" />
+
+- 🎓 IT & Cybersecurity student at EIDIA, Euro-Mediterranean University of Fes
+- 📜 BTS graduate in Information Systems Development
+- 💻 Backend developer working with Java, PHP, Node.js and PostgreSQL
+- 🛡️ Interested in pentesting, Linux hardening, networking and cryptography
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yassine-aitaouicha-a99653389)
+
+<br clear="right" />
 
 ## Tech Stack
 
+<table>
+  <tr>
+    <td width="190"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,php,py,c,cpp,ts,js,bash" alt="Java, PHP, Python, C, C++, TypeScript, JavaScript, Bash" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend & Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mysql,supabase" alt="Node.js, Express, GraphQL, PostgreSQL, MySQL, Supabase" /><br />
+      <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" alt="Quarkus" />
+      <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle DB" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="SQL Server" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend & Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,androidstudio" alt="React, Vite, Tailwind CSS, Android Studio" /></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vim" alt="Linux, Docker, Nginx, Git, GitHub, Vim" /></td>
+  </tr>
+  <tr>
+    <td><b>Security & Networking</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/SQLMap-2B2B2B?style=for-the-badge" alt="SQLMap" />
+      <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+      <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+      <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi" />
+    </td>
+  </tr>
+</table>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/creepout777/Atlas-Charge-Plus"><img src="https://raw.githubusercontent.com/creepout777/Atlas-Charge-Plus/main/atlas%20v2/public/hero-app.jpg" alt="Atlas Charge Plus+" /></a>
+      <h3><a href="https://github.com/creepout777/Atlas-Charge-Plus">Atlas Charge Plus+</a></h3>
+      <p>Mobile EV charging fleet platform with a multi-role web app, a native Android app and an Android Automotive dashboard.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/creepout777/UEMF-University-Management"><img src="https://raw.githubusercontent.com/creepout777/UEMF-University-Management/main/artifacts/university-app/public/opengraph.jpg" alt="UEMF University Management dashboard" /></a>
+      <h3><a href="https://github.com/creepout777/UEMF-University-Management">UEMF University Management</a></h3>
+      <p>University management system with role-based dashboards, grades, attendance and Telegram notifications, deployed on a VPS.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/creepout777/scanner-de-vulnerabilitees-unix"><img src="assets/scanner.svg" alt="Unix vulnerability scanner output" /></a>
+      <h3><a href="https://github.com/creepout777/scanner-de-vulnerabilitees-unix">Unix Vulnerability Scanner</a></h3>
+      <p>Modular Bash scanner that checks SUID/SGID binaries, sudoers rules, PATH injection and persistence artifacts, then generates an HTML report.</p>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/creepout777/reseaux-avancees-architecture-reseau-euromed"><img src="https://github.com/user-attachments/assets/04d33cfa-2105-4725-822a-e6400051b696" alt="UEMF campus network topology" /></a>
+      <h3><a href="https://github.com/creepout777/reseaux-avancees-architecture-reseau-euromed">UEMF Campus Network</a></h3>
+      <p>Three-tier network architecture for a six-building university campus, designed and simulated in Cisco Packet Tracer.</p>
+      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+      <img src="https://img.shields.io/badge/Networking-30363D?style=flat-square" alt="Networking" />
+    </td>
+  </tr>
+</table>
+
+### More Projects
+
+| Project | Description | Language |
+|---|---|---|
+| [Malicious Login Detector](https://github.com/creepout777/malicious-login-detector-Advanced-Algorithmics) | Brute-force and credential-stuffing detection using custom data structures | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| [Apache Server Hardening](https://github.com/creepout777/securisation-serveur-apache) | ACLs, SGID, sticky bit, iptables and sudoers on a Linux web server | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| [Antivirus Simulator](https://github.com/creepout777/antivirus-simulator) | Signature-based file scanner with quarantine, built on linked lists | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| [Distributed Applications](https://github.com/creepout777/TP-applications-distribuees-python) | Client/server, retry with backoff, asyncio and secure JSON/XML/Protobuf parsing | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [ESXi vs Proxmox VE](https://github.com/creepout777/Exploration-et-comparaison-de-VMware_ESXi-et-Proxmox_VE) | Hands-on comparison of two Type-1 hypervisors | ![Virtualization](https://img.shields.io/badge/Virtualization-607078?style=flat-square&logo=vmware&logoColor=white) |
+
+## GitHub Stats
+
 <p align="center">
-  <img width="50px" src="https://www.svgrepo.com/download/184143/java.svg" alt="Java" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" />
-  <img width="50px" src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" alt="Quarkus" />
-  <img width="50px" src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" />
-  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" />
-  <img width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="PostgreSQL" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
-  <img width="50px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="Docker" />
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" />
-  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg" alt="Burpsuite">
+  <img src="https://streak-stats.demolab.com?user=creepout777&hide_border=true&border_radius=12&background=0D1117&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak stats" />
 </p>
-
-
-
-
-
