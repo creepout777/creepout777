@@ -60,7 +60,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/creepout777/Atlas-Charge-Plus"><img src="https://raw.githubusercontent.com/creepout777/Atlas-Charge-Plus/main/atlas%20v2/public/hero-app.jpg" alt="Atlas Charge Plus+" /></a>
+      <a href="https://github.com/creepout777/Atlas-Charge-Plus"><img src="https://raw.githubusercontent.com/creepout777/Atlas-Charge-Plus/main/docs/screenshots/home.png" alt="Atlas Charge Plus+ home page" /></a>
       <h3><a href="https://github.com/creepout777/Atlas-Charge-Plus">Atlas Charge Plus+</a></h3>
       <p>Mobile EV charging fleet platform with a multi-role web app, a native Android app and an Android Automotive dashboard.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -69,7 +69,7 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/creepout777/UEMF-University-Management"><img src="https://raw.githubusercontent.com/creepout777/UEMF-University-Management/main/artifacts/university-app/public/opengraph.jpg" alt="UEMF University Management dashboard" /></a>
+      <a href="https://github.com/creepout777/UEMF-University-Management"><img src="https://raw.githubusercontent.com/creepout777/UEMF-University-Management/main/docs/screenshots/admin-dashboard.png" alt="UEMF University Management admin dashboard" /></a>
       <h3><a href="https://github.com/creepout777/UEMF-University-Management">UEMF University Management</a></h3>
       <p>University management system with role-based dashboards, grades, attendance and Telegram notifications, deployed on a VPS.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
