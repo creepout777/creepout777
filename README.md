@@ -15,6 +15,7 @@
 - 📜 BTS graduate in Information Systems Development
 - 💻 Backend developer working with Java, PHP, Node.js and PostgreSQL
 - 🛡️ Interested in pentesting, Linux hardening, networking and cryptography
+- 🏁 CTF player with team 0xUEMF: 66th of 6,744 teams at Hack The Box Cyber Apocalypse 2026
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yassine-aitaouicha-a99653389)
 
 <br clear="right" />
@@ -54,6 +55,34 @@
     </td>
   </tr>
 </table>
+
+## Certifications & CTFs
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="certifications/"><img src="certifications/images/htb-cyber-apocalypse-2026.png" alt="Hack The Box Cyber Apocalypse CTF 2026 certificate" /></a>
+      <p align="center"><b>HTB Cyber Apocalypse CTF 2026</b><br />66th of 6,744 teams · 136/136 challenges</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="certifications/"><img src="certifications/images/htb-morocco-summer-ctf-cup-2026.png" alt="Hack The Box Morocco Meetups Summer CTF Cup certificate" /></a>
+      <p align="center"><b>HTB Morocco Meetups Summer CTF Cup</b><br />16th of 311 teams · 12/12 challenges</p>
+    </td>
+  </tr>
+</table>
+
+**SecDojo CyberLab**, 6 labs completed:
+
+| Lab | Focus | Level | Certificate |
+|---|---|---|---|
+| OpenClaw | AI security | Advanced | [Verify](https://cyberlab.sec-dojo.com/certificate/15861427-4423-4c90-b29f-cd07a645c450?language_code=en) |
+| MCP | AI security, Model Context Protocol | Intermediate | [Verify](https://cyberlab.sec-dojo.com/certificate/e9e2ab19-cb2b-4d26-b8c6-0c14c2fca3ea?language_code=en) |
+| Nebula | MCP security, unauthorized access | Intermediate | [Verify](https://cyberlab.sec-dojo.com/certificate/b63c71a4-353e-49af-8b74-f64f85957954?language_code=en) |
+| Labyrinth | Active Directory, forensics, Splunk | Basic | [Verify](https://cyberlab.sec-dojo.com/certificate/6a4ce132-b71b-4453-831e-f9f715f160e8?language_code=en) |
+| Compete | Web exploitation | Basic | [Verify](https://cyberlab.sec-dojo.com/certificate/0cb60a2c-d47b-4635-9297-c5b22b95dfb7?language_code=en) |
+| Teletype | Linux, CVE-2026-24061 | Basic | [Verify](https://cyberlab.sec-dojo.com/certificate/1505afd4-97fa-4481-be0c-8927ba30c83e?language_code=en) |
+
+<p align="center"><a href="certifications/"><b>See all certificates →</b></a></p>
 
 ## Featured Projects
 
