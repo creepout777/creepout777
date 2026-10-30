@@ -34,11 +34,16 @@
       <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" alt="Quarkus" />
       <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle DB" />
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/Flask-3BABC3?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
     </td>
   </tr>
   <tr>
     <td><b>Frontend & Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,androidstudio" alt="React, Vite, Tailwind CSS, Android Studio" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,androidstudio" alt="React, Vite, Tailwind CSS, Android Studio" /><br />
+      <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
+    </td>
   </tr>
   <tr>
     <td><b>Machine Learning</b></td>
@@ -47,21 +52,32 @@
       <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
     </td>
   </tr>
   <tr>
     <td><b>DevOps & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vim" alt="Linux, Docker, Nginx, Git, GitHub, Vim" /></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vim" alt="Linux, Docker, Nginx, Git, GitHub, Vim" /><br />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+    </td>
   </tr>
   <tr>
     <td><b>Security & Networking</b></td>
     <td>
       <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/SQLMap-2B2B2B?style=for-the-badge" alt="SQLMap" />
+      <img src="https://img.shields.io/badge/Scapy-2C3E50?style=for-the-badge" alt="Scapy" />
+      <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
       <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Virtualization & Backup</b></td>
+    <td>
       <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
       <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi" />
+      <img src="https://img.shields.io/badge/Veeam%20Backup%20%26%20Replication-00B336?style=for-the-badge&logo=veeam&logoColor=white" alt="Veeam Backup &amp; Replication" />
     </td>
   </tr>
 </table>
