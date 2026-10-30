@@ -98,6 +98,19 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/creepout777/network-intrusion-detection-ml"><img src="https://raw.githubusercontent.com/creepout777/network-intrusion-detection-ml/main/docs/screenshots/command-center.png" alt="SentinelAI command center" /></a>
+      <h3><a href="https://github.com/creepout777/network-intrusion-detection-ml">SentinelAI: Network Intrusion Detection</a></h3>
+      <p>Captures live traffic, rebuilds NSL-KDD connection features and scores them with an SVM (97% precision on unseen attack types), then groups detections into incidents with attack-family typing, threat hunting and Shodan intel in a SOC-style console.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/Scapy-2C3E50?style=flat-square" alt="Scapy" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/creepout777/Atlas-Charge-Plus"><img src="https://raw.githubusercontent.com/creepout777/Atlas-Charge-Plus/main/docs/screenshots/home.png" alt="Atlas Charge Plus+ home page" /></a>
       <h3><a href="https://github.com/creepout777/Atlas-Charge-Plus">Atlas Charge Plus+</a></h3>
