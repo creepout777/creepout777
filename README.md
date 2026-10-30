@@ -37,7 +37,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Java &amp; Spring</b></td>
+    <td><b>Main Stack</b></td>
     <td>
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
       <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
