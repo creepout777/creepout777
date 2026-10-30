@@ -81,7 +81,7 @@
   </tr>
 </table>
 
-**SecDojo CyberLab**, 6 labs completed:
+**SecDojo CyberLab**, 6 labs completed during the DGSSI competition:
 
 | Lab | Focus | Level | Certificate |
 |---|---|---|---|

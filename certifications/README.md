@@ -29,7 +29,7 @@ Competing with team **0xUEMF**.
 
 ## Lab certifications
 
-Statements of lab completion from SecDojo CyberLab. Each one can be checked on SecDojo's site with the **Verify** link.
+Statements of lab completion earned during the **DGSSI competition** on SecDojo CyberLab. Each one can be checked on SecDojo's site with the **Verify** link.
 
 | Lab | Focus | Level | Completed | Verify |
 |---|---|---|---|---|
