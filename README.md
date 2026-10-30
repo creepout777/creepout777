@@ -163,8 +163,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/creepout777/Atlas-Charge-Plus"><img src="https://raw.githubusercontent.com/creepout777/Atlas-Charge-Plus/main/docs/screenshots/home.png" alt="Atlas Charge Plus+ home page" /></a>
-      <h3><a href="https://github.com/creepout777/Atlas-Charge-Plus">Atlas Charge Plus+</a></h3>
+      <a href="https://github.com/creepout777/atlas-charge-plus"><img src="https://raw.githubusercontent.com/creepout777/atlas-charge-plus/main/docs/screenshots/home.png" alt="Atlas Charge Plus+ home page" /></a>
+      <h3><a href="https://github.com/creepout777/atlas-charge-plus">Atlas Charge Plus+</a></h3>
       <p>Mobile EV charging fleet platform with a multi-role web app, a native Android app and an Android Automotive dashboard.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
@@ -172,8 +172,8 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/creepout777/UEMF-University-Management"><img src="https://raw.githubusercontent.com/creepout777/UEMF-University-Management/main/docs/screenshots/admin-dashboard.png" alt="UEMF University Management admin dashboard" /></a>
-      <h3><a href="https://github.com/creepout777/UEMF-University-Management">UEMF University Management</a></h3>
+      <a href="https://github.com/creepout777/uemf-university-management"><img src="https://raw.githubusercontent.com/creepout777/uemf-university-management/main/docs/screenshots/admin-dashboard.png" alt="UEMF University Management admin dashboard" /></a>
+      <h3><a href="https://github.com/creepout777/uemf-university-management">UEMF University Management</a></h3>
       <p>University management system with role-based dashboards, grades, attendance and Telegram notifications, deployed on a VPS.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
@@ -183,15 +183,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/creepout777/scanner-de-vulnerabilitees-unix"><img src="assets/scanner.svg" alt="Unix vulnerability scanner output" /></a>
-      <h3><a href="https://github.com/creepout777/scanner-de-vulnerabilitees-unix">Unix Vulnerability Scanner</a></h3>
+      <a href="https://github.com/creepout777/unix-vulnerability-scanner"><img src="assets/scanner.svg" alt="Unix vulnerability scanner output" /></a>
+      <h3><a href="https://github.com/creepout777/unix-vulnerability-scanner">Unix Vulnerability Scanner</a></h3>
       <p>Modular Bash scanner that checks SUID/SGID binaries, sudoers rules, PATH injection and persistence artifacts, then generates an HTML report.</p>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/creepout777/reseaux-avancees-architecture-reseau-euromed"><img src="https://github.com/user-attachments/assets/04d33cfa-2105-4725-822a-e6400051b696" alt="UEMF campus network topology" /></a>
-      <h3><a href="https://github.com/creepout777/reseaux-avancees-architecture-reseau-euromed">UEMF Campus Network</a></h3>
+      <a href="https://github.com/creepout777/uemf-campus-network"><img src="https://github.com/user-attachments/assets/04d33cfa-2105-4725-822a-e6400051b696" alt="UEMF campus network topology" /></a>
+      <h3><a href="https://github.com/creepout777/uemf-campus-network">UEMF Campus Network</a></h3>
       <p>Three-tier network architecture for a six-building university campus, designed and simulated in Cisco Packet Tracer.</p>
       <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
       <img src="https://img.shields.io/badge/Networking-30363D?style=flat-square" alt="Networking" />
@@ -205,8 +205,8 @@
 |---|---|---|
 | [Phishing Shield](https://github.com/creepout777/phishing-detector-extension-ml) | Chrome extension that blocks phishing pages, Random Forest model (94% accuracy) served by a local FastAPI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [ML Course Notebooks](https://github.com/creepout777/ml-course-notebooks) | Preprocessing, five regression models and logistic regression, solved and compared | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| [Malicious Login Detector](https://github.com/creepout777/malicious-login-detector-Advanced-Algorithmics) | Brute-force and credential-stuffing detection using custom data structures | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| [Apache Server Hardening](https://github.com/creepout777/securisation-serveur-apache) | ACLs, SGID, sticky bit, iptables and sudoers on a Linux web server | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| [Malicious Login Detector](https://github.com/creepout777/malicious-login-detector-advanced-algorithmics) | Brute-force and credential-stuffing detection using custom data structures | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| [Apache Server Hardening](https://github.com/creepout777/apache-server-hardening) | ACLs, SGID, sticky bit, iptables and sudoers on a Linux web server | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | [Antivirus Simulator](https://github.com/creepout777/antivirus-simulator) | Signature-based file scanner with quarantine, built on linked lists | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| [Distributed Applications](https://github.com/creepout777/TP-applications-distribuees-python) | Client/server, retry with backoff, asyncio and secure JSON/XML/Protobuf parsing | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [ESXi vs Proxmox VE](https://github.com/creepout777/Exploration-et-comparaison-de-VMware_ESXi-et-Proxmox_VE) | Hands-on comparison of two Type-1 hypervisors | ![Virtualization](https://img.shields.io/badge/Virtualization-607078?style=flat-square&logo=vmware&logoColor=white) |
+| [Distributed Applications](https://github.com/creepout777/distributed-applications-labs) | Client/server, retry with backoff, asyncio and secure JSON/XML/Protobuf parsing | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [ESXi vs Proxmox VE](https://github.com/creepout777/esxi-vs-proxmox) | Hands-on comparison of two Type-1 hypervisors | ![Virtualization](https://img.shields.io/badge/Virtualization-607078?style=flat-square&logo=vmware&logoColor=white) |
