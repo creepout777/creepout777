@@ -34,6 +34,8 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/Assembly%208086-6E4C13?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxyZWN0IHg9IjYiIHk9IjYiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgcng9IjEuNSIvPjxyZWN0IHg9IjkuNSIgeT0iOS41IiB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJub25lIi8%2BPHBhdGggZD0iTTkgMnYzTTE1IDJ2M005IDE5djNNMTUgMTl2M00yIDloM00yIDE1aDNNMTkgOWgzTTE5IDE1aDMiLz48L3N2Zz4%3D" alt="Assembly 8086" />
+      <img src="https://img.shields.io/badge/Visual%20Basic-945DB7?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSIzIiB5PSI0IiB3aWR0aD0iMTgiIGhlaWdodD0iMTYiIHJ4PSIxLjUiLz48cGF0aCBkPSJNMyA4aDE4Ii8%2BPHJlY3QgeD0iNiIgeT0iMTEiIHdpZHRoPSI3IiBoZWlnaHQ9IjMiIGZpbGw9IndoaXRlIiBzdHJva2U9Im5vbmUiLz48cmVjdCB4PSI2IiB5PSIxNiIgd2lkdGg9IjEyIiBoZWlnaHQ9IjIiIGZpbGw9IndoaXRlIiBzdHJva2U9Im5vbmUiLz48L3N2Zz4%3D" alt="Visual Basic" />
     </td>
   </tr>
   <tr>
