@@ -13,7 +13,7 @@
 
 - 🎓 IT & Cybersecurity student at EIDIA, Euro-Mediterranean University of Fes
 - 📜 BTS graduate in Information Systems Development
-- 💻 Backend developer working with Java, PHP, Node.js and PostgreSQL
+- 💻 Backend developer focused on Java and Spring Boot, also working with PHP, Node.js and PostgreSQL
 - 🛡️ Interested in pentesting, Linux hardening, networking and cryptography
 - 🏁 CTF player with team 0xUEMF: 66th of 6,744 teams at Hack The Box Cyber Apocalypse 2026
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yassine-aitaouicha-a99653389)
@@ -37,6 +37,16 @@
     </td>
   </tr>
   <tr>
+    <td><b>Java &amp; Spring</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+      <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+    </td>
+  </tr>
+  <tr>
     <td><b>Backend &amp; Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -48,8 +58,8 @@
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge" alt="Oracle DB" />
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server" />
+      <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDd2NGMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zVjdjMCAxLjctMy42IDMtOCAzUzQgOC43IDQgN3oiLz48cGF0aCBkPSJNNCAxM3Y0YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTN2LTRjMCAxLjctMy42IDMtOCAzcy04LTEuMy04LTN6Ii8%2BPC9zdmc%2B" alt="Oracle DB" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDd2NGMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zVjdjMCAxLjctMy42IDMtOCAzUzQgOC43IDQgN3oiLz48cGF0aCBkPSJNNCAxM3Y0YzAgMS43IDMuNiAzIDggM3M4LTEuMyA4LTN2LTRjMCAxLjctMy42IDMtOCAzcy04LTEuMy04LTN6Ii8%2BPC9zdmc%2B" alt="SQL Server" />
     </td>
   </tr>
   <tr>
@@ -76,6 +86,7 @@
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
       <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -88,8 +99,8 @@
     <td><b>Security &amp; Networking</b></td>
     <td>
       <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/SQLMap-2B2B2B?style=for-the-badge" alt="SQLMap" />
-      <img src="https://img.shields.io/badge/Scapy-2C3E50?style=for-the-badge" alt="Scapy" />
+      <img src="https://img.shields.io/badge/SQLMap-2B2B2B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xOCAybDQgNE0xNyA3bDMtM00xOSA5TDkgMTlsLTQgMCAwLTRMMTUgNXpNMTQgNmw0IDRNMTAgMTBsMiAyTTcgMTNsMiAyTTIgMjJsMy0zIi8%2BPC9zdmc%2B" alt="SQLMap" />
+      <img src="https://img.shields.io/badge/Scapy-2C3E50?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiI%2BPGNpcmNsZSBjeD0iNSIgY3k9IjEyIiByPSIyLjUiLz48Y2lyY2xlIGN4PSIxOSIgY3k9IjUiIHI9IjIuNSIvPjxjaXJjbGUgY3g9IjE5IiBjeT0iMTkiIHI9IjIuNSIvPjxwYXRoIGQ9Ik03IDExbDEwLTVNNyAxM2wxMCA1IiBmaWxsPSJub25lIi8%2BPC9zdmc%2B" alt="Scapy" />
       <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
       <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
     </td>
@@ -98,8 +109,8 @@
     <td><b>Virtualization &amp; Backup</b></td>
     <td>
       <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-      <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi" />
-      <img src="https://img.shields.io/badge/Veeam%20Backup%20%26%20Replication-00B336?style=for-the-badge&logo=veeam&logoColor=white" alt="Veeam Backup &amp; Replication" />
+      <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSI3IiB5PSIzIiB3aWR0aD0iMTQiIGhlaWdodD0iMTAiIHJ4PSIxLjUiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iMTQiIGhlaWdodD0iMTAiIHJ4PSIxLjUiIGZpbGw9IndoaXRlIi8%2BPHBhdGggZD0iTTggMjJoNk0xMSAxOXYzIi8%2BPC9zdmc%2B" alt="VMware ESXi" />
+      <img src="https://img.shields.io/badge/Veeam%20Backup%20%26%20Replication-00B336?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0zIDEyYTkgOSAwIDEgMCAzLTYuNyIvPjxwYXRoIGQ9Ik0zIDN2NWg1Ii8%2BPGVsbGlwc2UgY3g9IjEyIiBjeT0iOSIgcng9IjQiIHJ5PSIxLjYiIGZpbGw9IndoaXRlIi8%2BPHBhdGggZD0iTTggOXY2YzAgLjkgMS44IDEuNiA0IDEuNnM0LS43IDQtMS42VjkiLz48L3N2Zz4%3D" alt="Veeam Backup &amp; Replication" />
     </td>
   </tr>
 </table>
