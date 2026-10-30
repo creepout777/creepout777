@@ -41,6 +41,16 @@
     <td><img src="https://skillicons.dev/icons?i=react,vite,tailwind,androidstudio" alt="React, Vite, Tailwind CSS, Android Studio" /></td>
   </tr>
   <tr>
+    <td><b>Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    </td>
+  </tr>
+  <tr>
     <td><b>DevOps & Tools</b></td>
     <td><img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vim" alt="Linux, Docker, Nginx, Git, GitHub, Vim" /></td>
   </tr>
@@ -129,6 +139,8 @@
 
 | Project | Description | Language |
 |---|---|---|
+| [Phishing Shield](https://github.com/creepout777/phishing-detector-extension-ml) | Chrome extension that blocks phishing pages, Random Forest model (94% accuracy) served by a local FastAPI | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [ML Course Notebooks](https://github.com/creepout777/ml-course-notebooks) | Preprocessing, five regression models and logistic regression, solved and compared | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | [Malicious Login Detector](https://github.com/creepout777/malicious-login-detector-Advanced-Algorithmics) | Brute-force and credential-stuffing detection using custom data structures | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 | [Apache Server Hardening](https://github.com/creepout777/securisation-serveur-apache) | ACLs, SGID, sticky bit, iptables and sudoers on a Linux web server | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | [Antivirus Simulator](https://github.com/creepout777/antivirus-simulator) | Signature-based file scanner with quarantine, built on linked lists | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
