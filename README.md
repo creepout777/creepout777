@@ -210,9 +210,3 @@
 | [Antivirus Simulator](https://github.com/creepout777/antivirus-simulator) | Signature-based file scanner with quarantine, built on linked lists | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 | [Distributed Applications](https://github.com/creepout777/TP-applications-distribuees-python) | Client/server, retry with backoff, asyncio and secure JSON/XML/Protobuf parsing | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [ESXi vs Proxmox VE](https://github.com/creepout777/Exploration-et-comparaison-de-VMware_ESXi-et-Proxmox_VE) | Hands-on comparison of two Type-1 hypervisors | ![Virtualization](https://img.shields.io/badge/Virtualization-607078?style=flat-square&logo=vmware&logoColor=white) |
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=creepout777&hide_border=true&border_radius=12&background=0D1117&stroke=30363D&ring=3FB950&fire=3FB950&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak stats" />
-</p>
