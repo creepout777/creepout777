@@ -25,24 +25,41 @@
 <table>
   <tr>
     <td width="190"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,php,py,c,cpp,ts,js,bash" alt="Java, PHP, Python, C, C++, TypeScript, JavaScript, Bash" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend & Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mysql,supabase" alt="Node.js, Express, GraphQL, PostgreSQL, MySQL, Supabase" /><br />
-      <img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" alt="Quarkus" />
-      <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle DB" />
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="SQL Server" />
-      <img src="https://img.shields.io/badge/Flask-3BABC3?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
     </td>
   </tr>
   <tr>
-    <td><b>Frontend & Mobile</b></td>
+    <td><b>Backend &amp; Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,androidstudio" alt="React, Vite, Tailwind CSS, Android Studio" /><br />
-      <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
+      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Flask-3BABC3?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge" alt="Oracle DB" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" alt="SQL Server" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend &amp; Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Vite-9135FF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+      <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
     </td>
   </tr>
   <tr>
@@ -55,15 +72,20 @@
     </td>
   </tr>
   <tr>
-    <td><b>DevOps & Tools</b></td>
+    <td><b>DevOps &amp; Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vim" alt="Linux, Docker, Nginx, Git, GitHub, Vim" /><br />
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
     </td>
   </tr>
   <tr>
-    <td><b>Security & Networking</b></td>
+    <td><b>Security &amp; Networking</b></td>
     <td>
       <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/SQLMap-2B2B2B?style=for-the-badge" alt="SQLMap" />
@@ -73,7 +95,7 @@
     </td>
   </tr>
   <tr>
-    <td><b>Virtualization & Backup</b></td>
+    <td><b>Virtualization &amp; Backup</b></td>
     <td>
       <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
       <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi" />
